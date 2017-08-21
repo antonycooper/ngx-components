@@ -1,6 +1,6 @@
 {
   "name": "@ngx-components/ngx-input-field",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Angular Input field",
   "main": "dist/bundle.js",
   "scripts": {
