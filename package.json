@@ -1,4 +1,7 @@
 {
+  "name": "@ngx-components",
+  "version": "0.0.1",
+  "description": "Angular components",
   "devDependencies": {
     "@angular/common": "~4.3.0",
     "@angular/compiler": "~4.3.0",

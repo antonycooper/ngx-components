@@ -7,6 +7,14 @@
       "jasmine",
       "node"
     ],
-    "lib": ["es2016", "dom"]
+    "lib": ["es2016", "dom"],
+    "paths": {
+      "tslib": [
+        "./node_modules/tslib/tslib.d.ts"
+      ],
+      "@angular": [
+        "./node_modules/@angular"
+      ]
+    }
   }
 }

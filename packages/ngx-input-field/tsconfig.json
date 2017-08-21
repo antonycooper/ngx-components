@@ -14,18 +14,12 @@
     "importHelpers": true,
     "strictNullChecks": false,
     "removeComments": true,
-    "outDir": "../dist/@aarcus",
     "types": [
       "hammerjs",
       "jasmine",
       "node"
     ],
-    "lib": ["es2016", "dom"],
-    "paths": {
-      "tslib": [
-        "../../node_modules/tslib/tslib.d.ts"
-      ]
-    }
+    "lib": ["es2016", "dom"]
   },
   "files": [
     "index.ts"
