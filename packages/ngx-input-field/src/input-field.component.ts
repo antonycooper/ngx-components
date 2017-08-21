@@ -5,4 +5,4 @@ import { Component } from '@angular/core';
     templateUrl: './input-field.component.html'
 })
 
-export class ButtonComponent {}
+export class InputFieldComponent {}

@@ -29,7 +29,7 @@
   ],
   "exclude": [
     "node_modules",
-    "bundles"
+    "dist"
   ],
   "angularCompilerOptions": {
     "strictMetadataEmit": true,
