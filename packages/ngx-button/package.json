@@ -1,6 +1,6 @@
 {
   "name": "@aarcus/ngx-button",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Angular Button",
   "main": "dist/bundle.js",
   "scripts": {

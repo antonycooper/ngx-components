@@ -1,6 +1,6 @@
 {
   "name": "@aarcus/ngx-input-field",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Angular Input field",
   "main": "dist/bundle.js",
   "scripts": {
