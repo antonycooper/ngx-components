@@ -9,7 +9,7 @@ Thumbs.db
 # Ignored files
 *.html
 *.ts
-webpback.config.js
+webpack.config.js
 tsconfig.json
 !*.d.ts
 
