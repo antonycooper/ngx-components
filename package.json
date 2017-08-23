@@ -1,9 +1,9 @@
 {
-  "name": "@ngx-components",
+  "name": "ngx-components",
   "version": "0.0.1",
   "description": "Angular components",
   "devDependencies": {
-    "lerna": "^2.0.0",
-    "jest": "^20.0.4"
+    "jest": "^20.0.4",
+    "lerna": "^2.0.0"
   }
 }
