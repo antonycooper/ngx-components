@@ -14,18 +14,13 @@
     "importHelpers": true,
     "strictNullChecks": false,
     "removeComments": true,
-    "types": [
-      "hammerjs",
-      "jasmine",
-      "node"
+    "typeRoots": [
+      "node_modules/@types"
     ],
     "lib": ["es2016", "dom"]
   },
   "files": [
     "index.ts"
-  ],
-  "include": [
-    "src"
   ],
   "exclude": [
     "node_modules",

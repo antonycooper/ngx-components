@@ -2,8 +2,22 @@
   "name": "ngx-components",
   "version": "0.0.1",
   "description": "Angular components",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
   "devDependencies": {
+    "@angular/common": "~4.3.0",
+    "@angular/compiler": "~4.3.0",
+    "@angular/core": "~4.3.0",
+    "@angular/platform-browser": "~4.3.0",
+    "@angular/platform-browser-dynamic": "~4.3.0",
+    "@types/jest": "^20.0.8",
     "jest": "^20.0.4",
-    "lerna": "^2.0.0"
+    "jest-preset-angular": "^2.0.5",
+    "jest-zone-patch": "0.0.7",
+    "lerna": "^2.0.0",
+    "rxjs": "~5.4.2",
+    "typescript": "~2.4.1",
+    "zone.js": "0.8.12"
   }
 }

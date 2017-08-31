@@ -11,6 +11,8 @@ export class ButtonComponent {
     @Output() onClick: EventEmitter<any> = new EventEmitter<any>();
     isValid: boolean = false;
 
+    constructor() { }
+    
     handleClick(event: any): void {
         this.onClick.emit(event);
     }
